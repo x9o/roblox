@@ -445,6 +445,24 @@ local wordlist = {
     ["rbxassetid://100277598755570"] = "consanguine",
     ["rbxassetid://96968674308046"] = "mellifluous",
     ["rbxassetid://102681692035292"] = "facsimile",
+
+    --
+    ["rbxassetid://132536981845673"] = "psychophysicotherapeutics",
+    ["rbxassetid://87548225336904"] = "gastroenterologist",
+    ["rbxassetid://95968193297116"] = "oligonucleotide",
+    ["rbxassetid://112819574138692"] = "arthroereisis",
+    ["rbxassetid://74581123575676"] = "floccinaucinihilipilification",
+    ["rbxassetid://71790576062133"] = "psychoneuroimmunology",
+    ["rbxassetid://120654116196961"] = "hypoparathyroidism",
+    ["rbxassetid://112210941507084"] = "otorhinolaryngological",
+    ["rbxassetid://134719010200043"] = "pseudopseudohypoparathyroidism",
+    ["rbxassetid://91224594266635"] = "parallelogrammatic",
+    ["rbxassetid://87247321856093"] = "honorificabilitudinity",
+    ["rbxassetid://73465606584074"] = "hippopotomonstrosesquippedaliophobia",
+    ["rbxassetid://80398980657207"] = "quindecasyllabic",
+    ["rbxassetid://99480986785855"] = "quoddamodotative",
+    ["rbxassetid://137212544394249"] = "pneumoencephalography",
+    ["rbxassetid://72713625425585"] = "glyceraldehyde",
     ["a"] = "a",
     ["a"] = "a",
     ["a"] = "a",
@@ -453,6 +471,9 @@ local wordlist = {
     ["a"] = "a",
     ["a"] = "a",
     ["a"] = "a",
+    ["a"] = "a",
+    ["a"] = "a",
+
 }
 
 local keycodemap = {
